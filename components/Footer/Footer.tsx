@@ -91,7 +91,7 @@ const Footer = () => {
                       href="mailto:-support@carevalidate.com"
                       className="lg:text-sm text-xs text-[#404040]"
                     >
-                      support@Elle Edwards.com
+                      support@carevalidate.com
                     </a>
                   </div>
                 </li>
@@ -106,9 +106,9 @@ const Footer = () => {
                     />
                     <a
                       className="lg:text-sm text-xs text-[#404040]"
-                      href="tel:-+1 404 307 7465"
+                      href="tel:8443573601"
                     >
-                      +1 404 307 7465
+                      844-357-3601
                     </a>
                   </div>
                 </li>
@@ -129,18 +129,18 @@ const Footer = () => {
 
         <div className="flex flex-col justify-between lg:pt-5 pb-10 sm:flex-row">
           <p className="lg:text-sm text-xs text-[#737373]">
-            © 2023 Elle Edwards, Inc. All rights reserved.
+            © 2023 ElleEdwards, Inc. All rights reserved.
           </p>
           <div className="flex items-center lg:mt-4 mt-2 lg:space-x-4 space-x-2 sm:mt-0">
             <Link
               className="text-[#5B21B6] lg:mx-1 underline lg:text-sm text-xs"
-              href="https://www.Elle Edwards.com/terms-of-services"
+              href="https://www.ElleEdwards.com/terms-of-services"
             >
               Terms & Conditions.
             </Link>
             <Link
               className="text-[#5B21B6] lg:mx-1 underline lg:text-sm text-xs"
-              href="https://www.Elle Edwards.com/privacy"
+              href="https://www.ElleEdwards.com/privacy"
             >
               Privacy Policy.
             </Link>
