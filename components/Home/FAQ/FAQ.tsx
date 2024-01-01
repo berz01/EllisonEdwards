@@ -105,7 +105,7 @@ The Elle Edwards obesity telemedicine program is powered by the Care360™ platf
     },
     {
       title: "How much weight will I lose?",
-      des: "Actual weight lost is dependent on a number of factors but many Henry Meds clients lose around 5% of their initial body weight. Over 12 weeks, it can be as high as 10%. This equates to a weight loss of 10–20 pounds for a 200 pound person",
+      des: "Actual weight lost is dependent on a number of factors but many clients lose around 5% of their initial body weight. Over 12 weeks, it can be as high as 10%. This equates to a weight loss of 10–20 pounds for a 200 pound person",
     },
     {
       title: "How do I inject my medicine?",
