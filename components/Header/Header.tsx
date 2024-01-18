@@ -12,14 +12,6 @@ const Header = () => {
     <>
       <li>
         <a
-          href="#"
-          className="font-medium uppercase text-[##404040] text-lg"
-        >
-          About Us
-        </a>
-      </li>
-      <li>
-        <a
           href="#faq"
           className="font-medium uppercase text-[##404040] text-lg"
         >
