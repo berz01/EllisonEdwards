@@ -15,7 +15,7 @@ const Footer = () => {
               <ul className="mt-2 lg:space-y-2">
                 <li>
                   <Link href="/" className="lg:text-sm text-[#404040] text-xs">
-                    About Elle Edwards.com
+                    About Elle Edwards
                   </Link>
                 </li>
                 <li>
@@ -40,13 +40,8 @@ const Footer = () => {
               </p>
               <ul className="mt-2 lg:space-y-2">
                 <li>
-                  <Link href="/" className="lg:text-sm text-[#404040] text-xs">
-                    Members Area
-                  </Link>
-                </li>
-                <li>
-                  <Link href="/" className="lg:text-sm text-[#404040] text-xs">
-                    Order Status
+                <Link href="https://careglp.carevalidate.com/login" className="lg:text-sm text-[#404040] text-xs">
+                    Patients Portal
                   </Link>
                 </li>
                 <li>
@@ -67,7 +62,7 @@ const Footer = () => {
                   </Link>
                 </li>
                 <li>
-                  <Link href="/" className="lg:text-sm text-[#404040] text-xs">
+                  <Link href="https://support.careglp.com/support/home" className="lg:text-sm text-[#404040] text-xs">
                     Support
                   </Link>
                 </li>
@@ -127,20 +122,20 @@ const Footer = () => {
           />
         </div> */}
 
-        <div className="flex flex-col justify-between lg:pt-5 pb-10 sm:flex-row">
+<div className="flex flex-col justify-between lg:pt-5 pb-10 sm:flex-row">
           <p className="lg:text-sm text-xs text-[#737373]">
-            © 2023 ElleEdwards, Inc. All rights reserved.
+            © 2024 CareValidate, All rights reserved.
           </p>
           <div className="flex items-center lg:mt-4 mt-2 lg:space-x-4 space-x-2 sm:mt-0">
             <Link
               className="text-[#5B21B6] lg:mx-1 underline lg:text-sm text-xs"
-              href="https://www.ElleEdwards.com/terms-of-services"
+              href="https://support.careglp.com/support/solutions/articles/73000625396-terms-conditions"
             >
               Terms & Conditions.
             </Link>
             <Link
               className="text-[#5B21B6] lg:mx-1 underline lg:text-sm text-xs"
-              href="https://www.ElleEdwards.com/privacy"
+              href="https://support.careglp.com/support/solutions/articles/73000625394-privacy-policy"
             >
               Privacy Policy.
             </Link>
@@ -148,7 +143,6 @@ const Footer = () => {
               className="text-[#5B21B6] lg:mx-1 underline lg:text-sm text-xs"
               href="/"
             >
-              Fulfillment Policy
             </Link>
           </div>
         </div>

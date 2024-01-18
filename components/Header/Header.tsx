@@ -12,7 +12,7 @@ const Header = () => {
     <>
       <li>
         <a
-          href="https://Elle Edwards.com/"
+          href="#"
           className="font-medium uppercase text-[##404040] text-lg"
         >
           About Us
@@ -36,7 +36,7 @@ const Header = () => {
         </a>
       </li>
       <li>
-        <a href="https://accommodations.carevalidate.com/login">
+        <a href="https://careglp.carevalidate.com/login">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="31"
