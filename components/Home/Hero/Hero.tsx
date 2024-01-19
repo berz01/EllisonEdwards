@@ -3,7 +3,7 @@ import Link from "next/link";
 import React from "react";
 
 
-// high yellow - #71d1ac
+// high yellow - #c9a88d
 // mid - #fedc80
 // light-white yellow - #fff8e6
 
@@ -26,11 +26,11 @@ const Hero = () => {
         <div className="px-6 py-10">
           <h2 className="text-neutral-700 lg:text-3xl text-2xl not-italic font-medium lg:leading-9 leading-8 tracking-[-0.75px] lg:w-[400px]">
           Lose weight with GLP-1 medication.{" "} 
-            <span className="text-[#71d1ac] italic">
+            <span className="text-[#c9a88d] italic">
               DONE RIGHT!
             </span>{" "}
           </h2>
-          <p className="text-sm text-[#71d1ac] font-medium lg:w-[350px] mt-4">
+          <p className="text-sm text-[#c9a88d] font-medium lg:w-[350px] mt-4">
           GLP-1 medications in combination with 1:1 video coaching and lifestyle changes are the most effective for weight loss.
           </p>
           <div className="mt-6">
@@ -39,7 +39,7 @@ const Hero = () => {
               target="_blank"
             >
               {" "}
-              <button className="flex items-center gap-3 px-6 py-3 rounded-lg bg-[#71d1ac]">
+              <button className="flex items-center gap-3 px-6 py-3 rounded-lg bg-[#c9a88d]">
                 <span className="uppercase text-white text-lg">
                   See if I qualify
                 </span>

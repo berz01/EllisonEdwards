@@ -23,7 +23,7 @@ const Journey = () => {
   return (
     <div
       style={{
-        background: "linear-gradient(180deg, #50504b 0%, #71d1ac 100%)",
+        background: "linear-gradient(180deg, #50504b 0%, #c9a88d 100%)",
       }}
       className="w-full h-[256px] py-10"
     >

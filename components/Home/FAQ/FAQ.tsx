@@ -113,16 +113,16 @@ The Elle Edwards obesity telemedicine program is powered by the Care360™ platf
     },
   ];
 
-  // high yellow - #71d1ac
+  // high yellow - #c9a88d
   // mid - #fedc80
   // light-white yellow - #fff8e6
-  // #71d1ac - dark green elle
+  // #c9a88d - dark green elle
 
   return (
     <div
       style={{
         background:
-          "linear-gradient(180deg, #71d1ac 0%, #4E7DA0 50%, #4E7DA0 100%)",
+          "linear-gradient(180deg, #c9a88d 0%, #fbeddb 50%, #fbeddb 100%)",
       }}
       className="lg:pt-[96px] pt-[70px] lg:pb-[160px] pb-[70px] rounded shadow-2xl -mt-[3px]"
     >
@@ -143,7 +143,7 @@ The Elle Edwards obesity telemedicine program is powered by the Care360™ platf
               href="https://carevalidate.jotform.com/233576196386975"
               target="_blank"
             >
-              <button className="w-full bg-[#71d1ac] rounded-lg py-3 flex items-center gap-2 justify-center">
+              <button className="w-full bg-[#c9a88d] rounded-lg py-3 flex items-center gap-2 justify-center">
                 <span className="text-white text-lg">See if I qualify</span>
                 <Image
                   width={28}
